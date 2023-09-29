@@ -2,10 +2,10 @@ from requests_html import HTMLSession
 import json
 
 class Trade:
-    address_book = {'osmo': 'osmo1ngr3cmq0utly0ej3ag5wfxgph02c266crnqj50',
-                    'cosmos': 'cosmos1ngr3cmq0utly0ej3ag5wfxgph02c266ctgnzza',
-                    'juno': 'juno1ngr3cmq0utly0ej3ag5wfxgph02c266ca6se9p',
-                    'cheqd': 'cheqd1ngr3cmq0utly0ej3ag5wfxgph02c266c92lzfv'}
+    address_book = {'osmo': 'osmo...50',
+                    'cosmos': 'cosmos...za',
+                    'juno': 'juno...9p',
+                    'cheqd': 'cheqd...fv'}
 
     def __init__(self) -> None:
         pass
